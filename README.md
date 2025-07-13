@@ -1,3 +1,5 @@
+<!--- comment out for now
+
 <h1 align="center">Hi 👋, I'm Alexandru</h1>
 <h3 align="center">A passionate software engineer.</h3>
 <h3 align="center">Due to limited time, this page is still Work in Progress...</h3>
@@ -30,3 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexandrutarna&show_icons=true&locale=en" alt="alexandrutarna" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alexandrutarna&" alt="alexandrutarna" /></p>
+
+
+end of comment
+-->
