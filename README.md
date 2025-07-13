@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alexandru</h1>
 <h3 align="center">A passionate software engineer.</h3>
+<h3 align="center">Due to limited time, this page is still Work in Progress...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexandrutarna&label=Profile%20views&color=0e75b6&style=flat" alt="alexandrutarna" /> </p>
 
