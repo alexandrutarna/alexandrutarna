@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Alexandru</h1>
+<h3 align="center">A passionate software engineer.</h3>
+
 <!--- comment out for now
 
 <h1 align="center">Hi 👋, I'm Alexandru</h1>
